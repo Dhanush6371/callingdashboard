@@ -202,7 +202,7 @@ function App() {
           <div style={styles.brand}>
             <div style={styles.logo}>🍽️</div>
             <div>
-              <h1 style={styles.brandName}>Bhawarchi</h1>
+              <h1 style={styles.brandName}>Bansari</h1>
               <p style={styles.brandSubtitle}>Restaurant Dashboard</p>
             </div>
           </div>
