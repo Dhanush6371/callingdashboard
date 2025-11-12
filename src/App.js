@@ -312,7 +312,7 @@ function App() {
                   </div>
                   <div style={styles.statContent}>
                     <h3 style={styles.statLabel}>Total Revenue</h3>
-                    <p style={styles.statValue}>₹{stats.revenue || 0}</p>
+                    <p style={styles.statValue}>${stats.revenue || 0}</p>
                   </div>
                 </div>
 
